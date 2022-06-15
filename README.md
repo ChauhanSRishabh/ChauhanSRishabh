@@ -32,9 +32,7 @@ I am a person who believes in working for an organization where I can put to use
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ChauhanSRishabh"><img src="https://github-readme-stats.vercel.app/api?username=ChauhanSRishabh&show_icons=true&hide=stars,issues,&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="ChauhanSRishabh's GitHub stats" /></a>
+<a href="http://www.github.com/ChauhanSRishabh"><img src="https://github-readme-stats.vercel.app/api?username=ChauhanSRishabh&show_icons=true&hide=stars,issues,&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt=My GitHub stats" /></a>
 
 <a href="http://www.github.com/ChauhanSRishabh"><img src="https://activity-graph.herokuapp.com/graph?username=ChauhanSRishabh&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
