@@ -1,5 +1,5 @@
-Hi 👋 My name is Rishabh Singh Chauhan
-======================================
+Hi 👋 My name is Rishabh
+========================
 
 Software Developer
 ------------------
