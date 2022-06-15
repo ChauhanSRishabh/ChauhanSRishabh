@@ -4,12 +4,16 @@ Hi 👋 I'm Rishabh
 Software Developer
 ------------------
 
-I am a person who believes in working for an organization where I can put to use the skills I learned in my academic career, contribute to meet the organization’s need and achieve the set goals. I've worn many hats in my career--programmer, developer, organizer and volunteer. As a result, I have a unique ability to manage multi-disciplinary projects and to navigate complex challenges.
+I am a Computer Science enthusiast and a Google certified Open-source contributor. I have a passion for learning and sharing my knowledge with others. I am open to working for an organization where I can put to use the skills I've learnt, learn new skills, contribute to meet the organization’s need and achieve the set goals. 
+
+I've worn many hats in my career -- Programmer, Developer, Organizer and Volunteer. As a result, I have a unique ability to manage multi-disciplinary projects and to navigate complex challenges.
 
 * 🌍  I'm based in Kanpur, Uttar Pradesh, India
 * ✉️  You can reach out to me at [rishabh007singh@gmail.com](mailto:rishabh007singh@gmail.com)
+* 💬 Ask me about: C++, DSA, Competitive Programming
 * 🧠  I'm currently learning Django
-* ⚡  Impossible is nothing
+* ⚡  Let's git it done!
+
 
 ### Skills
 
@@ -30,12 +34,18 @@ I am a person who believes in working for an organization where I can put to use
 
 <p align="left"> <a href="https://www.github.com/ChauhanSRishabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/chauhansrishabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chauhansrishabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@RishabhSChauhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19342364/rishabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ChauhanSRishabh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<a href="http://www.github.com/ChauhanSRishabh"><img src="https://github-readme-stats.vercel.app/api?username=ChauhanSRishabh&show_icons=true&hide=stars,issues,&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
+### My GitHub Stats
+
+<a href="http://www.github.com/ChauhanSRishabh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChauhanSRishabh&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="http://www.github.com/ChauhanSRishabh"><img src="https://activity-graph.herokuapp.com/graph?username=ChauhanSRishabh&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
+<a href="http://www.github.com/ChauhanSRishabh"><img src="https://github-readme-stats.vercel.app/api?username=ChauhanSRishabh&show_icons=true&hide=stars,issues,&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
+
+<a href="https://github.com/ChauhanSRishabh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanSRishabh&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/ChauhanSRishabh/Data-Structures" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSRishabh&repo=Data-Structures&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/ChauhanSRishabh/HackerRank-Interview-Preparation-Kit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChauhanSRishabh&repo=HackerRank-Interview-Preparation-Kit&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
